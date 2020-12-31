@@ -1,6 +1,6 @@
 {
   "name": "thecarltontavern",
-  "HomePage": "https://yellowcake.netlify.com/",
+  "HomePage": "https://thecarltontavern.netlify.com/",
   "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
   "version": "2.0.0",
   "repository": {
@@ -11,6 +11,7 @@
     "@reach/router": "^1.2.1",
     "dom-form-serializer": "^1.0.7",
     "gatsby": "^2.17.7",
+    "gatsby-cli": "^2.16.2",
     "gatsby-image": "^2.2.30",
     "gatsby-plugin-google-tagmanager": "^2.1.15",
     "gatsby-plugin-manifest": "^2.2.26",
