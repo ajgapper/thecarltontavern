@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: The Carlton Tavern
 featuredImage: 'https://i.imgur.com/QbrqDDm.jpg'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: "London's Premiere Sports Bar"
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
