@@ -34,6 +34,7 @@
     "google-map-react": "^1.1.6",
     "lodash": "^4.17.19",
     "lodash.clonedeep": "^4.5.0",
+    "markmap-lib": "^0.11.1",
     "modern-normalize": "^0.5.0",
     "netlify-cms-app": "^2.9.7",
     "netlify-cms-media-library-uploadcare": "^0.5.5",
